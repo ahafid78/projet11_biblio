@@ -1,0 +1,21 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: #FFFFE8 !important;
+}
+
+/* Changer le CSS des buttons de la nav */
+nav button {
+    padding: 10px 20px;
+    width: 150px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+/* Sélectionner le dernier élement séléctionné */
+nav button:last-child{
+    margin-left: 20px;
+}

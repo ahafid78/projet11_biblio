@@ -15,7 +15,7 @@ nav button {
     letter-spacing: 3px;
 }
 
-/* Sélectionner le dernier élement séléctionné */
+/* Sélectionner le dernier élement */
 nav button:last-child{
     margin-left: 20px;
 }
